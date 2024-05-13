@@ -1,0 +1,19 @@
+Controle de Comissão;;;;;
+Vendedor;Produto A;Produto B;Total;Situação;Valor da Comissão
+Eduardo; R$ 350,00 ; R$ 490,00 ; R$ 840,00 ;Não atingiu;0
+Sandro; R$ 450,00 ; R$ 650,00 ; R$ 1.100,00 ;Atingiu;77
+Kari; R$ 432,00 ; R$ 897,00 ; R$ 1.329,00 ;Atingiu;93,03
+Sandra; R$ 500,00 ; R$ 499,00 ; R$ 999,00 ;Não atingiu;0
+Nelson; R$ 700,00 ; R$ 550,00 ; R$ 1.250,00 ;Atingiu;87,5
+Fernanda; R$ 650,00 ; R$ 432,00 ; R$ 1.082,00 ;Atingiu;75,74
+Wilson; R$ 150,00 ; R$ 850,00 ; R$ 1.000,00 ;Atingiu;70
+Carlos; R$ 780,00 ; R$ 220,00 ; R$ 1.000,00 ;Atingiu;70
+Roberto; R$ 354,00 ; R$ 432,00 ; R$ 786,00 ;Não atingiu;0
+Livia; R$ 400,00 ; R$ 450,00 ; R$ 850,00 ;Não atingiu;0
+;;;;;
+;;;;;
+Resumo;;;;Meta:; R$ 1.000,00 
+Total vendido:;; R$ 10.236,00 ;;Comissão:;7%
+Maior venda:;; R$ 1.329,00 ;;;
+Menor venda:;; R$ 786,00 ;;;
+Média de venda:;; R$ 1.023,60 ;;;
