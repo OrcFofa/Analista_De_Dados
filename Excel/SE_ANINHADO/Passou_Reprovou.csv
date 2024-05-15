@@ -1,0 +1,8 @@
+Alunos Aprovados;;;;;;;
+ Alunos;Modulo 1;Modulo 2;Média;Situação;;Lógica - Situação;
+Julio;10,0;10,0;10,0;Passou;;Média >= 7;Passou
+Alberto;5,0;4,0;4,5;Repetiu;;Média <7 ou >= 6;Recuperação
+Tina;7,0;6,0;6,5;Recuperação;;Média < 6;Repetiu
+Gil;9,0;9,5;9,3;Passou;;;
+Patricia;8,0;9,0;8,5;Passou;;;
+Rita;4,0;4,0;4,0;Repetiu;;;
