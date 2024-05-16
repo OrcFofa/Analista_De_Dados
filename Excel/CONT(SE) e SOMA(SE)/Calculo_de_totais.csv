@@ -1,0 +1,17 @@
+Alunos Aprovados;;;;;;;;;;
+ Alunos;Faltas;Modulo 1;Modulo 2;Média;Situação E ;Situação OU (Bolsista);Pgto;;Lógica - Situação;
+Julio;0;10,0;10,0;10,0;Aprovado;Ganha bolsa; R$ -   ;;Média >= 7;Passou
+Alberto;4;5,0;4,0;4,5;Reprovado;Sem bolsa; R$ 980,00 ;;Faltas > 3;Reprovado
+Tina;1;7,0;6,0;6,5;Reprovado;Ganha bolsa; R$ -   ;;Menalidade; R$ 980,00 
+Gil;1;9,0;9,5;9,3;Aprovado;Ganha bolsa; R$ -   ;;;
+Patricia;2;8,0;9,0;8,5;Aprovado;Sem bolsa; R$ 980,00 ;;;
+Rita;3;4,0;4,0;4,0;Reprovado;Sem bolsa; R$ 980,00 ;;;
+;;;;;;;;;;
+Alunos Bolsistas;;;;;Resumo - Total;;;;;
+3;;;;;Alunos;6;;;;
+;;;;;Faltas;11;;;;
+Alunos Aprovados;;;;;Pgto; R$ 2.940,00 ;;;;
+3;;;;;;;;;;
+;;;;;;;;;;
+Ptgo. Alunos Aprovados;;;;;;;;;;
+980;;;;;;;;;;

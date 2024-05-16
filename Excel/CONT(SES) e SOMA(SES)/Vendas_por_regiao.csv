@@ -1,0 +1,12 @@
+Nome; Região; Pedidos;Vendas;; Região; Pedidos;Num. de Pessoas
+ José;Leste;75; R$ 48.900,00 ;;Leste;>=50;1
+Maria;Leste;24; R$ 56.980,00 ;;Oeste;>=50;1
+Rita;Oeste;97; R$ 62.000,00 ;;Sul;>=50;2
+Pedro;Sul;64; R$ 69.234,00 ;; Norte;>=50;0
+Julio;Sul;89; R$ 54.390,00 ;;;;
+Tonio;Norte;22; R$ 76.981,00 ;;;;
+;;;;; Região; Pedidos;Total de vendas 
+;;;;;Leste;>=50; R$ 48.900,00 
+;;;;;Oeste;>=50; R$ 62.000,00 
+;;;;;Sul;>=50; R$ 123.624,00 
+;;;;;Norte;>=50; R$ -   
