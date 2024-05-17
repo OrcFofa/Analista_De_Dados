@@ -1,0 +1,7 @@
+Aluno;Word;Excel;Power Point;;;CONSULTA DE NOTAS;;;;
+Marcele;10,0;9,0;8,0;;;ALUNOS:;NOTAS:;MÁTERIA:;word;
+Augusto;6,0;10,0;6,0;;;Marcele;10,0;;;
+Fernanda;2,0;9,0;8,5;;;Augusto;6,0;;;
+Bruno;8,5;8,0;6,0;;;Fernanda;2,0;;;
+Catarina;7,7;7,0;7,2;;;Bruno;8,5;;;
+;;;;;;Catarina;7,7;;;
